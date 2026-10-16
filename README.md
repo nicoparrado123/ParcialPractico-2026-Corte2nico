@@ -14,6 +14,15 @@ mvn clean install NO ME FUNCIONO ESTO
 USE ESTE PARA CORRERLO
 mvn spring-boot:run
 ```
+
+pruebas swagger
+punto 1
+<img width="1919" height="936" alt="image" src="https://github.com/user-attachments/assets/8f7debb4-c239-4b95-b4c1-8881731ad09b" />
+punto 2
+<img width="1904" height="938" alt="image" src="https://github.com/user-attachments/assets/0bbab0f6-7e1b-4567-a03a-a7577a2b22bf" />
+solo pude capturar esos perdon  
+
+
 Probar con `curl`:
 ```bash
 curl -s http://localhost:8080/blueprints | jq
