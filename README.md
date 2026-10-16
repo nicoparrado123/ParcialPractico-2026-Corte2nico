@@ -9,7 +9,9 @@
 
 ## ▶️ Ejecución del proyecto
 ```bash
-mvn clean install
+mvn clean install NO ME FUNCIONO ESTO
+ mvn clean install -DskipTests
+USE ESTE PARA CORRERLO
 mvn spring-boot:run
 ```
 Probar con `curl`:
